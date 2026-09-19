@@ -46,7 +46,7 @@ function About() {
           </button>
 
           <a
-            href="https://drive.google.com/file/d/1QSmgNfpfBi6I0woWgsyWanGUI3Oap9Qt/view?usp=sharing"
+            href="https://drive.google.com/file/d/1-VHGLLd1zRAtmDd_1AeSg6kJsjfR6e__/view?usp=drivesdk"
             target="_blank"
             rel="noopener noreferrer"
           >
